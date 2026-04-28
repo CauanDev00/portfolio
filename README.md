@@ -50,6 +50,7 @@ Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na 
 | **Classificador de Tênis com IA** | Projeto que utiliza IA para identificar se um tênis é masculino ou feminino a partir de análise de características visuais. | [Ver Projeto](https://github.com/CauanDev00/portfolio/blob/main/site%20para%20analisar%20se%20o%20tenis%20%C3%A9%20%20f%20ou%20m/site%20para%20analisar%20se%20o%20tenis%20%C3%A9%20%20f%20ou%20m.pdf) |
 | **Batalha de Modelos de IA** | Comparação entre diferentes modelos de IA aplicados no desenvolvimento de um site, avaliando desempenho e resultados. | [Ver Projeto](https://github.com/CauanDev00/portfolio/blob/main/Batalha_de_Modelos/Batalha_de_Modelos.pdf) |
 | **ABNgrid** | Recriação de um site com um toque de personalidade própria, explorando design e estrutura frontend. | [Ver Projeto](https://github.com/CauanDev00/portfolio/tree/main/abngrid) |
+| **Engenharia Reversa de QR Code** | Análise e reconstrução de um site de geração de QR Code utilizando engenharia reversa para entender sua estrutura e funcionamento. | [Ver Projeto](https://github.com/CauanDev00/portfolio/tree/main/Engenharia%20Reversa) |
 
 ---
 
